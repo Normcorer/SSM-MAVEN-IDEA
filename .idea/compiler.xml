@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hiAPI" />
+        <module name="hiWeb" />
+        <module name="hiDao" />
+        <module name="hiService" />
+        <module name="himodel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hiAPI" target="1.7" />
+      <module name="hiDao" target="1.7" />
+      <module name="himodel" target="1.7" />
+      <module name="hiService" target="1.7" />
+      <module name="hiWeb" target="1.7" />
+      <module name="SSM" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

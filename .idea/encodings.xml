@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SSM/hi-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSM/hi-Dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSM/hi-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSM/hi-Web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSM/hi-Web/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SSM/hi-model" charset="UTF-8" />
+  </component>
+</project>

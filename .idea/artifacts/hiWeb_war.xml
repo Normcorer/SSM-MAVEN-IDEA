@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hiWeb:war">
+    <output-path>$PROJECT_DIR$/SSM/hi-Web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hiWeb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hi-Web.war">
+      <element id="artifact" artifact-name="hiWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

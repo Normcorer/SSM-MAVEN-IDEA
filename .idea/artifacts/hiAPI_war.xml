@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hiAPI:war">
+    <output-path>$PROJECT_DIR$/SSM/hi-API/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hiAPI</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hi-API.war">
+      <element id="artifact" artifact-name="hiAPI:war exploded" />
+    </root>
+  </artifact>
+</component>

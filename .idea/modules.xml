@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.iml" filepath="$PROJECT_DIR$/SSM/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/hi-API/hiAPI.iml" filepath="$PROJECT_DIR$/SSM/hi-API/hiAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/hi-Dao/hiDao.iml" filepath="$PROJECT_DIR$/SSM/hi-Dao/hiDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/hi-Service/hiService.iml" filepath="$PROJECT_DIR$/SSM/hi-Service/hiService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/hi-Web/hiWeb.iml" filepath="$PROJECT_DIR$/SSM/hi-Web/hiWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/hi-model/himodel.iml" filepath="$PROJECT_DIR$/SSM/hi-model/himodel.iml" />
+    </modules>
+  </component>
+</project>
